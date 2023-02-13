@@ -1,17 +1,21 @@
-# Today_i_Fixed_NodeJS
+ 
 
-The purpose of this repository is to store the bug fixes in an organized manner which we do on daily basis by investing our precious time and to make it a Time Saver for other developers encountering with the same issues.
+> Today I Fixed
 
-Format of the bug fix PR should be like this:
+Today_i_Fixed_NodeJS is a community-driven repository where individuals can share their daily learnings and fixes related to NodeJS. This is a platform to showcase your skills, knowledge, and experience in this technology, and help others in the community by sharing your insights. By contributing to this repo, you can improve your technical skills and gain recognition. Whether it's a small fix or a big discovery, every contribution counts and helps the community grow. Join us and let's learn together!
 
-## Problem
-...  1-2 liner problem statment  ...
 
-## Environment
-- IDE Version : ...
 
-## How you fix it
-...  3-4 lines of description  ...
+---
 
-## Solution
-```code references```
+### Categories
+* [JavaScript](#javascript)
+* [TypeScript](#typescript)
+
+---
+### JavaScript
+
+
+### Typescript
+
+- [Time Slot Generator](typescript/ts-generate-time-slots/generate-Time-Slots.md)
